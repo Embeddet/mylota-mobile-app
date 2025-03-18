@@ -1,0 +1,1 @@
+ /Users/mac/StudioProjects/mylota/.dart_tool/flutter_build/daaf0ac7a644d4ecf0270f87113fb223/native_assets.yaml: 
